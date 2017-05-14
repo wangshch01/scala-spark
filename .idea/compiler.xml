@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="4.17test" />
+        <module name="spark-hbase" />
+        <module name="sparksql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="4.17test" target="1.8" />
+      <module name="spark-hbase" target="1.5" />
+      <module name="sparksql" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

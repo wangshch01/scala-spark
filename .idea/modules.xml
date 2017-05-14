@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/4.17test/4.17test.iml" filepath="$PROJECT_DIR$/../idea-scala/4.17test/4.17test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/day1/day1.iml" filepath="$PROJECT_DIR$/../idea-scala/day1/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/idea-scala.iml" filepath="$PROJECT_DIR$/../idea-scala/idea-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/mythrift/mythrift.iml" filepath="$PROJECT_DIR$/../idea-scala/mythrift/mythrift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/spark-hbase/spark-hbase.iml" filepath="$PROJECT_DIR$/../idea-scala/spark-hbase/spark-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/sparksql/sparksql.iml" filepath="$PROJECT_DIR$/../idea-scala/sparksql/sparksql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-scala/untitled/untitled.iml" filepath="$PROJECT_DIR$/../idea-scala/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
